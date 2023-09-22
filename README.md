@@ -1,0 +1,1 @@
+# fujieda_mule_test
